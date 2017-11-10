@@ -1,0 +1,6 @@
+gedit
+dhclient
+firefox-esr
+nautilus
+udisksd
+colord
